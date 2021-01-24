@@ -97,20 +97,20 @@ hr{
     
 }
 
-.hero.hero-img{
+.hero .hero-img{
     max-width: 80%;
     width: 350px;
     display: block;
     margin: auto;
 }
 
-.hero.hero-heading{
+.hero .hero-heading{
     text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
 }
 
-.hero.hero-heading.heading-inverted{
+.hero .hero-heading .heading-inverted{
     color: var(--primary-color);
 }
 
