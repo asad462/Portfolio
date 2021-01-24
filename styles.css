@@ -29,12 +29,12 @@ hr{
 
 .link {
     text-decoration: none;
-    padding: 0.5rem 1 rem;
+    padding: 1rem 1 rem;
     
 }
 
 .link-primary {
-    background-color: var(--primary-link);
+    background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
 
