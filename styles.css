@@ -25,6 +25,10 @@ hr{
 
 }
 
+.container-center .p{
+    text-align: center;
+}
+
 /** links **/
 
 .link {
