@@ -67,12 +67,16 @@ hr{
     border-bottom-left-radius: 1rem;
 
 }
-.navigation.nav-brand{
+.navigation .nav-brand{
     font-weight: bold;
     font-size: 1.1rem;
 }
 
-.navigation.nav-pills{
+.nav-brand a{
+    text-decoration: none;
+    color: inherit;
+}
+.navigation .nav-pills{
     text-align: right;
 }
 /** To apply colour to the list **/
