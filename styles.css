@@ -34,10 +34,12 @@ hr{
 }
 
 .link-primary {
-    background-color: var(--primary-link);
+    background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
-
+    display: block;
+    max-width: 140px;
+    margin: 1rem 1rem 1rem 0rem;
 }
 
 .link-secondary {
@@ -89,12 +91,13 @@ hr{
 .hero{
     padding: 2rem;
     padding-top: 5rem;
-    margin: center;
+    margin: auto;
     
 }
 
 .hero.hero-img{
-    max-width: 350px;
+    max-width: 80%;
+    width: 350px;
     display: block;
     margin: auto;
 }
