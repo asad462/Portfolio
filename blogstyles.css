@@ -25,21 +25,23 @@ body {
   /* Right column */
   .rightcolumn {
     float: left;
-    width: 25%;
-    padding-left: 20px;
+    width: 52%;
+    padding-left: 1px;
+    color: #7c3aed;
   }
   
   /* Fake image */
   .fakeimg {
-    background-color: #aaa;
-    width: 100%;
+    background-color:white;
+    width: 93%;
     padding: 20px;
   }
   
   /* Add a card effect for articles */
   .card {
+    color: #7c3aed;
     background-color: white;
-    padding: 20px;
+    padding: 15px;
     margin-top: 20px;
   }
   
