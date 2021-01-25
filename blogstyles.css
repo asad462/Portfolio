@@ -9,8 +9,11 @@ body {
     padding: 30px;
     font-size: 40px;
     text-align: center;
-    background: white;
-  }
+    background: #7C3AED;
+    color: white;
+    box-sizing: border-box;
+    border-color: #f3f4f6;
+    }
   
   /* Create two unequal columns that floats next to each other */
   /* Left column */
