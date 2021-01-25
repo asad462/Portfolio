@@ -19,7 +19,7 @@ body {
   /* Left column */
   .leftcolumn {
     float: left;
-    width: 75%;
+    width: 100%;
   }
   
   /* Right column */
@@ -28,6 +28,7 @@ body {
     width: 52%;
     padding-left: 1px;
     color: #7c3aed;
+    
   }
   
   /* Fake image */
